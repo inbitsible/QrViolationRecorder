@@ -24,8 +24,7 @@
       <a href="violation.php" id="profile-link">Profile/Status</a>
       <button type="button" id="authButton" class="logout-btn"></button>
       
-why does it not show in 
-//dill dough
+kufal
 
 
     </nav>
